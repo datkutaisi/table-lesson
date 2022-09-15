@@ -1,0 +1,13 @@
+ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    margin-left: 15px;
+}
+
+table, th, td{
+    border: 2px solid red;
+    font-size: 50px;
+}
